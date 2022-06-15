@@ -1,0 +1,6 @@
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\bin\Debug\LaRottaO.Utils.GetValueFromJson.dll
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\bin\Debug\LaRottaO.Utils.GetValueFromJson.pdb
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\obj\Debug\LaRottaO.Utils.GetValueFromJson.csproj.AssemblyReference.cache
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\obj\Debug\LaRottaO.Utils.GetValueFromJson.csproj.CoreCompileInputs.cache
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\obj\Debug\LaRottaO.Utils.GetValueFromJson.dll
+C:\Repositorios\LaRottaO.Utils.GetValueFromJson\LaRottaO.Utils.GetValueFromJson\obj\Debug\LaRottaO.Utils.GetValueFromJson.pdb
